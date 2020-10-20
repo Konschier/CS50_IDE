@@ -1,0 +1,11 @@
+start
+
+get input from the user;
+check the input from the user;
+if the input is correct proceed;
+else back to line 3;
+
+use user input to create an new line;
+for each line add space = user input -1, then an #
+
+
