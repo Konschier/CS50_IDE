@@ -331,3 +331,82 @@ submit50 cs50/problems/2020/x/readability
 cd .. ..
 cd ../..
 git init
+git add .
+git commit -m "CS50 IDE Archives"
+git config -- global user.email "maykonschier@gmail.com"
+git config --global user.email "maykonschier@gmail.com"
+git config --global user.name "Maykon de A Schier"
+git commit -m "CS50 IDE Archives"
+git remote add origin https://github.com/Konschier/CS50_IDE.git
+git branch -M main
+git push -u origin main
+cd 
+make cesar
+cd pset2/cesar/
+make caesar
+make caesar
+make caesar
+make caesar
+make caesar
+make caesar 
+make caesar
+make caesar
+ls
+cd ..
+ls
+ls
+cd caesar/
+make caesar 
+make caesar 
+make caesar 
+make caesar 
+make caesar 
+make caesar 
+make caesar 
+make caesar 
+make caesar 
+#include <stdio.h>
+#include <stdlib.h>
+#include <cs50.h>
+#include <string.h>
+#include <ctype.h>
+bool check_valid_key(string s);
+int main (int argc, string argv[])
+{     {         printf("Usage: ./cesar key");
+        return 1;
+    }
+    int key = atoi(argv[1]); // atoi converts the string argument str to an integer (type int).get_
+    string plaintext = get_string("plaintext: "); // Get the user input
+    printf("ciphertext: "); // Print the cipher texto to the user
+    for (int i = 0, n = strlen(plaintext); i < n; i++) // To interate over the plain text and
+    {         char c = plaintext[i];         if (isalpha(c))
+        {             char mod ='A';             if (islower(c))
+                mod = 'a';
+            printf("%c", (c - mod + key) % 26 + mod); // The given formula bit corrected to change the upperletter to lowerletter
+        }
+        else
+            printf("%c", c);
+    }
+    printf("\n");
+}
+bool check_valid_key(string s)
+{     for (int i = 0, n = strlen(s); i < n; i++)
+    {     {         return false;     };         return true;     }
+make caesar 
+help50 make caesar.c 
+make caesar 
+clear
+make caesar
+make caesar
+make caesar
+./caesar 
+./caesar 8
+check50 cs50/problems/2020/x/caesar
+style50 caesar.c
+style50 caesar.c
+style50 caesar.c
+style50 caesar.c
+style50 caesar.c
+style50 caesar.c
+submit50 cs50/problems/2020/x/caesar
+cd ../..

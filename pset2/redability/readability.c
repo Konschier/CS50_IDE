@@ -8,12 +8,12 @@ int get_index(string s);
 
 int main(void)
 {
-    string text = get_string("Text: "); //getting the useer input
+    string text = get_string("Text: "); //getting the user input
     int index = get_index(text);
 
     if (index < 1)
     {
-        printf("Before Grade 1\n"); 
+        printf("Before Grade 1\n");
     }
     else if (index >= 16)
     {
@@ -55,7 +55,7 @@ int get_index(string s)
 
     float L = (letters * 100.0f) / words;
     float S = (sentences * 100.0f) / words;
-    
+
     //using the formula given by the problem
     return round(0.0588 * L - 0.296 * S - 15.8);
 
