@@ -410,3 +410,69 @@ style50 caesar.c
 style50 caesar.c
 submit50 cs50/problems/2020/x/caesar
 cd ../..
+git add .
+git commit -m "Caesar done"
+git push origin master
+git push origin main
+cd pset3/
+touch plurality.c
+cd ..
+wget https://cdn.cs50.net/2019/fall/psets/3/plurality/plurality.c
+cd pset3
+ls
+make plurality
+help50 make plurality
+make
+make plurality 
+make plurality 
+make plurality
+make plurality 
+make plurality 
+help50 make plurality
+make plurality 
+make plurality
+make plurality
+make plurality
+make plurality
+make plurality
+make plurality
+make plurality
+make plurality
+make plurality
+make plurality
+make plurality
+submit50 cs50/problems/2020/x/plurality
+check50 cs50/problems/2020/x/plurality
+style50 plurality.c
+style50 plurality.c
+style50 plurality.c
+style50 plurality.c
+style50 plurality.c
+submit50 cs50/problems/2020/x/plurality
+cd runoff/
+wget https://cdn.cs50.net/2019/fall/psets/3/runoff/runoff.c
+make runoff
+make runoff
+make runoff
+make runoff
+make runoff
+make runoff
+make runoff
+help50 make runoff
+make runoff
+make runoff
+make runoff
+make runoff
+make runoff
+make runoff
+make runoff
+./runoff 
+./runoff alana
+./runoff alana
+./runoff alana
+check50 cs50/problems/2020/x/runoff
+style50 runoff.c
+style50 runoff.c
+submit50 cs50/problems/2020/x/runoff
+cd ..
+cd ..
