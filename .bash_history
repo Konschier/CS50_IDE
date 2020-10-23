@@ -476,3 +476,49 @@ style50 runoff.c
 submit50 cs50/problems/2020/x/runoff
 cd ..
 cd ..
+git add .
+git commit -m "runoff complete"
+git push origin main
+cd pset4
+cd recover/
+touch recover.c
+./recover.c
+wget http://cdn.cs50.net/2019/fall/psets/4/recover/recover.zip
+unzip recover.zip 
+rem recover.zip -y
+rm recover.zip -y
+rm recover.zip --y
+rm recover.zip 
+ls
+wget http://cdn.cs50.net/2019/fall/psets/4/recover/recover.zip
+unzip recover.zip 
+make recover
+make recover
+cd pset3
+cd recover
+cd ..
+cd pset4
+cd recover
+ls
+make recover
+make recover
+make recover
+make recover
+make recover
+make recover
+make recover
+make recover
+make recover
+make recover
+./recover card.raw
+make recover
+check50 cs50/problems/2020/x/recover
+style50 recover.c
+style50 recover.c
+style50 recover.c
+style50 recover.c
+style50 recover.c
+style50 recover.c
+submit50 cs50/problems/2020/x/recover
+cd ../..
+git add .
