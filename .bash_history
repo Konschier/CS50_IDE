@@ -1,40 +1,3 @@
-make hello
-make hello
-./hello 
-make
-make hello .c
-make helo
-make hello
-./hello
-make hello
-./hello
-clear
-style50 hello.c
-style50 hello.c
-mkdir lectureWeek1
-mv hello > ./lectureWeek1/
-cd lectureWeek1/
-mv hello.c ..
-..
-cd ..
-mv hello.c lectureWeek1/
-mv hello lectureWeek1/
-clear
-make adiction
-gcc adiction.c
-make adiction.c
-make adiction
-clear
-cd lectureWeek1/
-make adiction 
-./adiction 
-make adiction 
-touch truncation.c
-make truncation 
-truncation
-./truncation 
-touch condition.c
-make condition 
 ./condition 
 touch agree.c
 make agree 
@@ -522,3 +485,46 @@ style50 recover.c
 submit50 cs50/problems/2020/x/recover
 cd ../..
 git add .
+git add .
+git commit -m "Finished Recovery"
+git push origin main
+cd pset4/filter
+wget https://cdn.cs50.net/2019/fall/psets/4/filter/less/filter.zip
+unzip filter.zip 
+ls
+ls -la
+make filter
+cd pset4
+cd filter
+make filter
+make filter
+wget https://cdn.cs50.net/2019/fall/psets/4/filter/less/filter.zip
+unzip filter
+cd pset4/filter
+ls
+make filter
+make filtert
+make filter
+make filter
+make filter
+make filter
+make filter
+$ ./filter -g images/yard.bmp out.bmp
+./filter -g images/yard.bmp out.bmp
+check50 cs50/problems/2020/x/filter/less
+help check50 cs50/problems/2020/x/filter/less
+help50 check50 cs50/problems/2020/x/filter/less
+check50 cs50/problems/2020/x/filter/less
+check50 cs50/problems/2020/x/filter/less
+style50 helpers.cstyle
+style50 helpers.c
+style50 helpers.c
+style50 helpers.c
+style50 helpers.c
+check50 cs50/problems/2020/x/filter/less
+style50 helpers.c
+make filter
+make filter
+check50 cs50/problems/2020/x/filter/less
+submit50 cs50/problems/2020/x/filter/less
+cd ../..
