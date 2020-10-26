@@ -528,3 +528,5 @@ make filter
 check50 cs50/problems/2020/x/filter/less
 submit50 cs50/problems/2020/x/filter/less
 cd ../..
+git add .
+git commit -m "Finished the filter problem"
