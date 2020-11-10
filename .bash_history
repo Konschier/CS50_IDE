@@ -1,109 +1,3 @@
-make mario
-./mario
-make mario
-./mario
-clear
-make mario
-./mario
-clear
-make mario
-make mario
-clear
-make mario
-make mario
-./mario
-./mario
-./mario
-clear
-make mario
-make mario
-make mario
-./mario
-./mario
-./mario5
-./mario
-clear
-make mario
-make mario
-./mario
-make mario
-./mario
-check50 cs50/problems/2020/x/mario/less
-make mario
-./mario
-check50 cs50/problems/2020/x/mario/less
-./mario
-./mario
-style50 mario.c
-make mario
-style50 mario.c
-make mario
-style50 mario.c
-check50 cs50/problems/2020/x/mario/less
-make mario
-make mario
-clear
-make mario
-style50 mario.c
-make mario
-make mario
-make mario
-clear
-make mario
-make mario
-make mario
-clear
-make mario
-make mario
-clear
-make mario
-make mario
-clear
-make mario
-make mario
-./mario
-clear
-check50 cs50/problems/2020/x/mario/less
-make mario
-./mario
-check50 cs50/problems/2020/x/mario/less
-make mario
-check50 cs50/problems/2020/x/mario/less
-./mario
-clear
-make mario
-clear
-make mario
-./mario
-check50 cs50/problems/2020/x/mario/less
-make mario
-check50 cs50/problems/2020/x/mario/less
-make mario
-./mario
-clear
-make mario
-make mario
-./mario
-clear
-make mario
-./
-./mario
-./mario
-./mario
-check50 cs50/problems/2020/x/mario/less
-make mario
-check50 cs50/problems/2020/x/mario/less
-./mario
-clear
-make mario
-./mario
-make mario
-./mario
-make mario
-./mario
-clear
-make mario
-make mario
 ./mario
 check50 cs50/problems/2020/x/mario/less
 style50 mario.c
@@ -514,3 +408,125 @@ help50 valgrind ./speller texts/cat.txt
 check50 cs50/problems/2020/x/speller
 submit50 cs50/problems/2020/x/speller
 cd ../..
+git add .
+git commit -m "finished to fix speller program"
+git push origin master
+git push origin main
+mkdir pset6
+cd pset6
+touch hello py
+python3 hello.py 
+python3 hello.py 
+python3 hello.py 
+python3 hello.py 
+python3 hello.py 
+python hello.py 
+python hello.py 
+python hello.py 
+submit50 cs50/problems/2020/x/sentimental/hello
+python mario.py 
+python mario.py 
+python mario.py 
+python mario.py 
+python mario.py 
+python mario.py 
+python mario.py 
+python mario.py 
+python mario.py 
+python mario.py 
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+python mario.py 10
+5
+5
+5
+p
+python mario.py 
+python mario.py 
+submit50 cs50/problems/2020/x/sentimental/hello
+submit50 cs50/problems/2020/x/sentimental/mario/less
+submit50 cs50/problems/2020/x/sentimental/mario/less
+submit50 cs50/problems/2020/x/sentimental/mario/less
+python mario.py 
+cd cash/
+ls
+cleR
+submit50 cs50/problems/2020/x/sentimental/cash
+python cash.py 
+python cash.py 
+python cash.py 
+submit50 cs50/problems/2020/x/sentimental/cash
+cd ../redability/
+ls -l
+python readability.py
+python readability.py
+python readability.py
+readability.py
+python readability.py
+python readability.py
+python readability.py
+python readability.py
+python readability.py
+Congratulations! Today is your day. You're off to Great Places! You're off and away!
+python readability.py
+python readability.py
+submit50 cs50/problems/2020/x/sentimental/readability
+cd ..
+wget https://cdn.cs50.net/2019/fall/psets/6/dna/dna.zip
+unzip dna.zip 
+rm -r dna.zip 
+cd dna
+ls -l
+touch dna.py
+python dna.py databases/large.csv sequences/5.txt
+python dna.py databases/large.csv sequences/5.txt
+cd pset6/
+cd dna/
+python dna.py databases/large.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/5.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/large.csv sequences/15.txt
+python dna.py databases/small.csv sequences/2.txt
+submit50 cs50/problems/2020/x/dna
+cd ../../../
+cd ~/
