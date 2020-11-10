@@ -1,105 +1,3 @@
-./condition 
-touch agree.c
-make agree 
-./agree 
-./agree 
-ls
-cd lectureWeek1/
-ls
-make condition
-./condition 
-./condition 
-clear
-ls
-clear
-make meow 
-./meow
-make meow 
-./meow 
-ls
-clear
-make meow 
-./meow 
-make meow 
-mesg 
-./meow 
-clear
-make get_positive_int 
-./get_positive_int 
-./get_positive_int 
-clear
-cd mario/
-mario
-./mario
-make mario
-./mario 
-make mario 
-./mario
-mario make
-make mario 
-./mario 
-clear
-cd ..
-make nested 
-./nested 
-make nested 
-./nested 
-clear
-ls
-cd memory/
-ls
-cd
-clear
-make over
-cd mem
-cd lectureWeek1/
-cd memory/
-clear
-make over 
-.over
-./over 
-./over 
-cd lectureWeek1/
-check50 cs50/problems/2020/x/hello
-clea
-cleat
-clear
-style50 hello.c
-submit50 cs50/problems/2020/x/hello
-clear
-mkdir ~/pset1/
-cd ~/pset1/
-mkdir ~/pset1/hello
-cd ~/pset1/hello
-submit50 cs50/problems/2020/x/hello
-cd
-cd pset1/hello/
-ls
-ls
-submit50 cs50/problems/2020/x/hello
-~/ $ mkdir ~/pset1/mario
-cd
- mkdir ~/pset1/mario
-cd  ~/pset1/mario
-touch mario.c
-make mario
-make mario
-make mario
-make mario
-make mario
-./mario
-make mario
-./mario
-make mario
-make mario
-./mario
-./mario
-make mario
-clear
-nake mario
-make mario
-./ mario
-./mario 
 make mario
 ./mario
 make mario
@@ -530,3 +428,89 @@ submit50 cs50/problems/2020/x/filter/less
 cd ../..
 git add .
 git commit -m "Finished the filter problem"
+git add .
+git commit -m "Finished the filter problem"
+git push origin main
+mkdir pset5
+wget https://cdn.cs50.net/2019/fall/psets/5/speller/speller.zip
+cd pset5
+cd pset5
+cd pset5
+wget https://cdn.cs50.net/2019/fall/psets/5/speller/speller.zipwget https://cdn.cs50.net/2019/fall/psets/5/speller/speller.zip
+unzip speller
+rm speller.zip
+cd pset4
+cd filter/
+make filter
+filter
+./filter 
+./filter $ ./filter -g images/yard.bmp out.bmp
+$ ./filter -g images/yard.bmp out.bmp
+./filter -g images/yard.bmp out.bmp
+./filter -s images/yard.bmp out.bmp
+./filter -r images/yard.bmp out.bmp
+./filter -b images/yard.bmp out.bmp
+wget https://cdn.cs50.net/2019/fall/psets/5/speller/speller.zip
+unzip speller.zip 
+cd pset5
+ls
+ls -la
+cd speller
+ls
+make 
+make 
+clear
+make
+make
+make
+make
+makew
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+maker
+make
+make
+make
+make
+make
+make
+make
+cd pset5
+ls
+cd speller/
+make
+help50 make
+make
+$ check50 cs50/problems/2020/x/speller
+check50 cs50/problems/2020/x/speller
+check50 cs50/problems/2020/x/speller
+make
+check50 cs50/problems/2020/x/speller
+check50 cs50/problems/2020/x/speller
+makwe
+make
+cd pset5
+make
+cd speller/
+make
+make
+make
+make
+make
+$ help50 valgrind ./speller texts/cat.txt
+help50 valgrind ./speller texts/cat.txt
+./speller texts/lalaland.txt
+check50 cs50/problems/2020/x/speller
+submit50 cs50/problems/2020/x/speller
+cd ../..
