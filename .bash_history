@@ -1,38 +1,3 @@
-./mario
-check50 cs50/problems/2020/x/mario/less
-style50 mario.c
-style50 mario.c
-make mario
-style50 mario.c
-check50 cs50/problems/2020/x/mario/less
-submit50 cs50/problems/2020/x/mario/less
-mkdir ~/pset1/cash
-cd ~/pset1/cash
-touch cash.c
-make cash.c
-make cash
-clear
-make cash
-make cash
-make cash
-clear
-./cash
-cash make
-make cash
-./cash
-check50 cs50/problems/2020/x/cash
-clear
-make cash
-check50 cs50/problems/2020/x/cash
-style50 cash.c
-style50 cash.c
-style50 cash.c
-submit50 cs50/problems/2020/x/cash
-make cash
-submit50 cs50/problems/2020/x/cash
-mkdir
-mk dir ~/pset2/caesar
-mkdir ~/pset2/caesar
 cd ~/pset2/caesar
 ls
 mkdir pset2
@@ -530,3 +495,63 @@ python dna.py databases/small.csv sequences/2.txt
 submit50 cs50/problems/2020/x/dna
 cd ../../../
 cd ~/
+git add .
+git commit -m "Finished the python problems"
+git push origin main
+mkdir pset7
+cd pset7
+wget https://cdn.cs50.net/2019/fall/psets/7/movies/movies.zip
+unzip movies.zip rm movies.zip
+unzip movies.zip 
+rm movies.zip 
+cd movies/
+ls -l
+code .
+sqlite3 .schema
+sqlite3 movies.db .schema
+touch schema.txt
+cat 1.sql | sqlite3 movies.db
+cat 1.sql | sqlite3 movies.db | wc
+cat 1.sql | sqlite3 movies.db | wc
+cat .sql | sqlite3 movies.db 
+cat 2.sql | sqlite3 movies.db 
+cat 2.sql | sqlite3 movies.db 
+cat 2.sql | sqlite3 movies.db 
+cat 2.sql | sqlite3 movies.db 
+cat 2.sql | sqlite3 movies.db 
+cat 3.sql | sqlite3 movies.db | wc
+cat 3.sql | sqlite3 movies.db | wc
+cat 3.sql | sqlite3 movies.db | wc
+cat 4.sql | sqlite3 movies.db | wc
+cat 4.sql | sqlite3 movies.db
+cat 5.sql | sqlite3 movies.db
+cat 6.sql | sqlite3 movies.db
+cat 7.sql | sqlite3 movies.db | WC
+cat 7.sql | sqlite3 movies.db | wc
+cat 8.sql | sqlite3 movies.db | wc
+cat 9.sql | sqlite3 movies.db | wc
+cat 9.sql | sqlite3 movies.db | wc
+cat 10.sql | sqlite3 movies.db | wc
+cat 10.sql | sqlite3 movies.db | wc
+cat 10.sql | sqlite3 movies.db | wc
+submit50 cs50/problems/2020/x/movies
+submit50 cs50/problems/2020/x/movies
+cat 11.sql | sqlite3 movies.db | wc
+cat 11.sql | sqlite3 movies.db | wc
+cat 11.sql | sqlite3 movies.db | wc
+cat 11.sql | sqlite3 movies.db | wc
+cat 11.sql | sqlite3 movies.db 
+cat 11.sql | sqlite3 movies.db 
+cat 11.sql | sqlite3 movies.db 
+cat 11.sql | sqlite3 movies.db 
+cat 12.sql | sqlite3 movies.db 
+cat 13.sql | sqlite3 movies.db 
+cat 13.sql | sqlite3 movies.db 
+cat 13.sql | sqlite3 movies.db 
+cat 13.sql | sqlite3 movies.db 
+cat 13.sql | sqlite3 movies.db 
+cat 13.sql | sqlite3 movies.db 
+cat 13.sql | sqlite3 movies.db | wc
+submit50 cs50/problems/2020/x/movies
+cd ~/
+git add.
